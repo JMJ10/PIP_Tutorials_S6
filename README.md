@@ -6,3 +6,4 @@ To be used for various Tutorial Projects for Programming in Python course.
 2. Investment Report
 3. Square Root by Newtons Method
 4. Caesar Cipher - Encryption & Decryption
+5. Binary Number to Decimal Number Conversion
